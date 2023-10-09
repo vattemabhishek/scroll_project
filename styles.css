@@ -266,6 +266,7 @@ nav {
     max-width: 1170px;
     margin: 0 auto;
     display: flex;
+    
     align-items: center;
     justify-content: space-between;
   }
@@ -365,7 +366,6 @@ footer p {
   border-radius: var(--radius);
   color: var(--clr-white);
   animation: bounce 2s ease-in-out infinite;
-
   visibility: hidden;
   z-index: -100;
 }
